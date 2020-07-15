@@ -2,7 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ### Implementation
-The implementation for the Traffic Sign Classifier is in this [jupyter notebook](https://github.com/kkufieta/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
+The implementation for the Traffic Sign Classifier can be found in this [jupyter notebook](https://github.com/kkufieta/CarND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb).
 
 ### Overview
 
